@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642350506 source:d:\programming\test1\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642364359 source:d:\programming\matvey_maks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643101597 source:d:\repository\test_person\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1643115441 d:\repository\test_person\file.h
+	"constant.h"
+
+1643016202 d:\repository\test_person\constant.h
+
